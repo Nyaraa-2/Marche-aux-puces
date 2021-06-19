@@ -2,7 +2,6 @@
   <div>
     <section class="titre-accueil">
       <h1>Bienvenue sur le site de la Mairie de GrosVille</h1>
-      <h2>Ajout d'un autre titre pour test commit</h2>
     </section>
     <section class="accueil">
       <div class="img-accueil">
